@@ -1,0 +1,20 @@
+body{margin-top: 10px;
+margin-bottom: 0;
+margin-left: 340px;
+margin-right: 340px;}
+
+#name,#address{width: 1100px;
+height: 100px;
+border-radius: 8px;}
+
+button{background-color: dodgerblue;
+color: aliceblue;
+font-size: 50px;
+width: 1100px;
+}
+fieldset{border-radius: 8px;}
+
+#field{height: 100px;
+width:  1100px;
+font-size: 20px;
+font-style:ariel;}
